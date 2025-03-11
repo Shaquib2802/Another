@@ -51,7 +51,7 @@ const Header = () => {
             />
           </div>
           <div className="font-semibold text-xl mt-5 ml-4">
-            Mobiles & Tablet
+            Mobiles & Tablets
           </div>
         </div>
         <div>
